@@ -6,6 +6,7 @@ buzz = (
     "continous deployment",
     "continous improvement",
     "devops",
+    "continous delivery"
 )
 adjectives = (
     "complete",
@@ -22,6 +23,7 @@ adverbs = (
     "significantly",
     "seriously",
     "truly",
+    "forgivingly"
 )
 verbs = ("accelerates", "improves", "enhances", "revamps", "booasts", "speed")
 
